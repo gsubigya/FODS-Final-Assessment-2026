@@ -1,4 +1,4 @@
--- Student Management System --
+## Student Management System
 
 Project completed by:
 1) Saksham Poudel
@@ -7,11 +7,12 @@ Project completed by:
 4) Subigya Ghimire
 
 ----------------------------------------------------------------------------------
-Responsibilities:
-admin.py: Saksham Poudel
-analytics.py: Prasan Manandhar, Saksham Poudel, Shitansha Baral, Subigya Ghimire
-student_menu.py: Prasan Manandhar
-auth.py: Shitansha Baral
-student.py: Shitansha Baral
-file_handler.py: Subigya Ghimire
-main.py: Subigya Ghimire
+## Project Responsibilities
+
+* **admin.py**: Saksham Poudel
+* **analytics.py**: Prasan Manandhar, Saksham Poudel, Shitansha Baral, Subigya Ghimire
+* **student_menu.py**: Prasan Manandhar
+* **auth.py**: Shitansha Baral
+* **student.py**: Shitansha Baral
+* **file_handler.py**: Subigya Ghimire
+* **main.py**: Subigya Ghimire
