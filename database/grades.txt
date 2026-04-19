@@ -1,0 +1,3 @@
+ram_bahadur,Math:55,Science:60,English:48,Nepali:70,Computer:65
+sita_thapa,Math:88,Science:91,English:84,Nepali:79,Computer:93
+saksham,Math:92,Science:44,English:32,Nepali:20,Computer:89

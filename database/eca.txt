@@ -1,0 +1,2 @@
+ram_bahadur,Football:1
+sita_thapa,Music:5,Art Club:4,Coding Club:3,Volunteer:2

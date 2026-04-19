@@ -1,0 +1,4 @@
+U001,admin,Admin User,admin@school.com,admin,1990-01-01
+U004,ram_bahadur,Ram Bahadur,ram@school.com,student,2004-02-14
+U005,sita_thapa,Sita Thapa,sita@school.com,student,2003-11-30
+U006,saksham,Saksham Poudel,sakshampoudel775@gmail.com,student,2006-01-03
