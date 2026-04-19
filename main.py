@@ -19,12 +19,12 @@ from modules import student_menu
 def show_welcome_banner():
     """Prints the welcome banner when the program first starts."""
     print("\n" + "=" * 50)
-    print("   STUDENT MANAGEMENT SYSTEM")
-    print("   FODS Final Project")
+    print("STUDENT MANAGEMENT SYSTEM")
+    print("FODS Final Project")
     print("=" * 50)
-    print("  Available Accounts (FOR DEMO):")
-    print("  Admin   = admin/admin123")
-    print("  Student = saksham/subigya")
+    print("Available Accounts (FOR DEMO):")
+    print("Admin   = admin/admin123")
+    print("Student = saksham/subigya")
     print("=" * 50)
 
 
@@ -57,12 +57,12 @@ def main():
 
         else:
             # This shouldn't normally happen, but handled just in case
-            print("  [!] Unknown role: " + user_role)
+            print("Unknown role: " + user_role)
 
         # Step 3: After logout, ask if another person wants to log in
-        try_again = input("  Login with another account? (y/n): ").strip().lower()
+        try_again = input("Login with another account? (y/n): ").strip().lower()
         if try_again != "y":
-            print("\n  Thank you for using the system. Goodbye!\n")
+            print("\n Thank you for using the system. Goodbye!\n")
             break
 
 
